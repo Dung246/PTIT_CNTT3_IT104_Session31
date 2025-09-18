@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "bài viết 1",
+      "image": "Ảnh bài viết 1",
+      "date": "18/9/2025",
+      "status": true,
+      "content": "Nội dung 01"
+    },
+    {
+      "id": 2,
+      "title": "bài viết 2",
+      "image": "Ảnh bài viết 2",
+      "date": "19/9/2025",
+      "status": false,
+      "content": "Nội dung 02"
+    },
+    {
+      "id": 3,
+      "title": "bài viết 3",
+      "image": "Ảnh bài viết 3",
+      "date": "20/9/2025",
+      "status": true,
+      "content": "Nôi dung 03"
+    },
+    {
+      "title": "vds",
+      "image": "sdfdf",
+      "date": "18/9/2,025",
+      "status": false,
+      "content": "eeeeeeeeeeeeeeee",
+      "id": 4
+    },
+    {
+      "title": "hhhhhhhhhhhhhhhh",
+      "image": "jjjjjjjjjjjjjjj",
+      "date": "18/9/2,025",
+      "status": false,
+      "content": "ttttttttttttttttt",
+      "id": 5
+    }
+  ]
+}
